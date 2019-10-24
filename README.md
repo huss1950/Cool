@@ -8,19 +8,6 @@ Hello there... I am new to github and will hopefully like it.
         <title>Project: Blog</title>
     </head>
     <body>
-        
-        <h1>Alex's blog</h1>
-
-        <h3>Contents</h3>
-        <ul>
-            <li>First post!</li>
-        </ul>
-        
-        <h2>First post</h2>
-        <h6>Some cool stuff happened - I got this account!</h6>
-        
-        <p>Something excited happened.</p>
-        
-        
-    </body>
+        <img src="https://www.telegraph.co.uk/content/dam/news/2017/11/11/Lam1-xlarge_trans_NvBQzQNjv4BqnAdySV0BR-4fDN_-_p756cVfcy8zLGPV4EhRkjQy7tg.jpg">
+        <t>"First Blog Post</t>
 </html>
